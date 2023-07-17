@@ -669,6 +669,7 @@ int main()
 
 	//Test_std_accumulate();
 
+	std::cout << "add git: " << std::endl;
 	std::string ds = "Down";
 
 	if (ds.compare("None") != 0)
