@@ -119,6 +119,7 @@ void Scale_Pano()
 
 
 
+/*球机视场角标定 球机画面内的像素 与球机画面内的数据进行标定*/
 void Get_CBS_PTZ_Data()
 {
 	// CBS
